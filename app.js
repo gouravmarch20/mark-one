@@ -27,6 +27,11 @@ const questionAndAnswer = [
     question:
       'City which i wanted to visit  \nA.Los Angeles \nB.Mumbai \nC.Paris',
     answer: 'B'
+  },
+  {
+    question:
+      'Which companany laptop i use  \nA.Apple \nB.Acer \nC.Mi',
+    answer: 'B'
   }
 ]
 function userScore (question, answer, index) {
